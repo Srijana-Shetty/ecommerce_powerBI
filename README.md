@@ -1,2 +1,2 @@
 # ecommerce_powerBI
-<img width="700" height="300" justify-content="center" alt="Screenshot 2025-10-26 163659" src="https://github.com/user-attachments/assets/4dd5d653-da68-407a-a4bf-30b53af79c9c" />
+<img width="900" height="500" justify-content="center" alt="Screenshot 2025-10-26 163659" src="https://github.com/user-attachments/assets/4dd5d653-da68-407a-a4bf-30b53af79c9c" />
